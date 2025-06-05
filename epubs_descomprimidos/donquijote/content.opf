@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+  <metadata xmlns:calibre="http://calibre.kovidgoyal.net/2009/metadata" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:identifier opf:scheme="URN">urn:uuid:2d9a634c-1959-11e7-8fff-4c72b9252ec6</dc:identifier>
+    <dc:identifier id="uuid_id" opf:scheme="uuid">d47bd5b4-4fda-4eb0-b31f-e854d4094d13</dc:identifier>
+    <dc:identifier opf:scheme="calibre">d47bd5b4-4fda-4eb0-b31f-e854d4094d13</dc:identifier>
+    <meta name="calibre:title_sort" content="ingenioso hidalgo Don Quijote de la Mancha, El"/>
+    <dc:creator opf:file-as="Cervantes, Miguel" opf:role="aut">Miguel Cervantes</dc:creator>
+    <dc:date>1605-10-14T23:00:00+00:00</dc:date>
+    <dc:contributor opf:role="bkp">calibre (3.47.1) [https://calibre-ebook.com]</dc:contributor>
+    <dc:subject>Ficción</dc:subject>
+    <dc:subject>Clásicos</dc:subject>
+    <dc:publisher>Libro y Punto</dc:publisher>
+    <dc:title>El ingenioso hidalgo Don Quijote de la Mancha</dc:title>
+    <dc:language>es</dc:language>
+    <meta name="cover" content="cover"/>
+    <meta name="calibre:timestamp" content="2019-10-09T13:19:35.168000+00:00"/>
+  </metadata>
+  <manifest>
+    <item href="OEBPS/Images/don quijote- cervantes.png" id="cover" media-type="image/png"/>
+    <item href="OEBPS/Text/cover.xml" id="u5YTvEeGQfyN5XBE66eIf5F" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/title.xml" id="titlepage" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main0.xml" id="main0" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main1.xml" id="main1" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main2.xml" id="main2" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main3.xml" id="main3" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main4.xml" id="main4" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main5.xml" id="main5" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main6.xml" id="main6" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main7.xml" id="main7" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main8.xml" id="main8" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main9.xml" id="main9" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main10.xml" id="main10" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main11.xml" id="main11" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main12.xml" id="main12" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main13.xml" id="main13" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main14.xml" id="main14" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main15.xml" id="main15" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main16.xml" id="main16" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main17.xml" id="main17" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main18.xml" id="main18" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main19.xml" id="main19" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main20.xml" id="main20" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main21.xml" id="main21" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main22.xml" id="main22" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main23.xml" id="main23" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main24.xml" id="main24" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main25.xml" id="main25" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main26.xml" id="main26" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main27.xml" id="main27" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main28.xml" id="main28" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main29.xml" id="main29" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main30.xml" id="main30" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main31.xml" id="main31" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main32.xml" id="main32" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main33.xml" id="main33" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main34.xml" id="main34" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main35.xml" id="main35" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main36.xml" id="main36" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main37.xml" id="main37" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main38.xml" id="main38" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main39.xml" id="main39" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main40.xml" id="main40" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main41.xml" id="main41" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main42.xml" id="main42" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main43.xml" id="main43" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main44.xml" id="main44" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main45.xml" id="main45" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main46.xml" id="main46" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main47.xml" id="main47" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main48.xml" id="main48" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main49.xml" id="main49" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main50.xml" id="main50" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main51.xml" id="main51" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main52.xml" id="main52" media-type="application/xhtml+xml"/>
+    <item href="OEBPS/Text/main53.xml" id="main53" media-type="application/xhtml+xml"/>
+    <item href="page_styles.css" id="page_css" media-type="text/css"/>
+    <item href="stylesheet.css" id="css" media-type="text/css"/>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml"/>
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="u5YTvEeGQfyN5XBE66eIf5F"/>
+    <itemref idref="titlepage"/>
+    <itemref idref="main0"/>
+    <itemref idref="main1"/>
+    <itemref idref="main2"/>
+    <itemref idref="main3"/>
+    <itemref idref="main4"/>
+    <itemref idref="main5"/>
+    <itemref idref="main6"/>
+    <itemref idref="main7"/>
+    <itemref idref="main8"/>
+    <itemref idref="main9"/>
+    <itemref idref="main10"/>
+    <itemref idref="main11"/>
+    <itemref idref="main12"/>
+    <itemref idref="main13"/>
+    <itemref idref="main14"/>
+    <itemref idref="main15"/>
+    <itemref idref="main16"/>
+    <itemref idref="main17"/>
+    <itemref idref="main18"/>
+    <itemref idref="main19"/>
+    <itemref idref="main20"/>
+    <itemref idref="main21"/>
+    <itemref idref="main22"/>
+    <itemref idref="main23"/>
+    <itemref idref="main24"/>
+    <itemref idref="main25"/>
+    <itemref idref="main26"/>
+    <itemref idref="main27"/>
+    <itemref idref="main28"/>
+    <itemref idref="main29"/>
+    <itemref idref="main30"/>
+    <itemref idref="main31"/>
+    <itemref idref="main32"/>
+    <itemref idref="main33"/>
+    <itemref idref="main34"/>
+    <itemref idref="main35"/>
+    <itemref idref="main36"/>
+    <itemref idref="main37"/>
+    <itemref idref="main38"/>
+    <itemref idref="main39"/>
+    <itemref idref="main40"/>
+    <itemref idref="main41"/>
+    <itemref idref="main42"/>
+    <itemref idref="main43"/>
+    <itemref idref="main44"/>
+    <itemref idref="main45"/>
+    <itemref idref="main46"/>
+    <itemref idref="main47"/>
+    <itemref idref="main48"/>
+    <itemref idref="main49"/>
+    <itemref idref="main50"/>
+    <itemref idref="main51"/>
+    <itemref idref="main52"/>
+    <itemref idref="main53"/>
+  </spine>
+  <guide>
+    <reference href="OEBPS/Text/title.xml" title="Title Page" type="title-page"/>
+    <reference href="OEBPS/Text/cover.xml" title="Title Page" type="other.titlepage"/>
+    <reference href="OEBPS/Text/main0.xml" title="Main0" type="text"/>
+    <reference href="OEBPS/Text/cover.xml" title="Portada" type="cover"/>
+  </guide>
+</package>

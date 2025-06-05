@@ -1,0 +1,333 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="spa">
+  <head>
+    <meta content="d47bd5b4-4fda-4eb0-b31f-e854d4094d13" name="dtb:uid"/>
+    <meta content="2" name="dtb:depth"/>
+    <meta content="calibre (3.47.1)" name="dtb:generator"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>El ingenioso hidalgo Don Quijote de la Mancha</text>
+  </docTitle>
+  <navMap>
+    <navPoint class="titlepage" id="level1-titlepage" playOrder="1">
+      <navLabel>
+        <text>Título</text>
+      </navLabel>
+      <content src="OEBPS/Text/title.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84794" playOrder="2">
+      <navLabel>
+        <text>Capítulo 1 - Que trata de la condición y ejercicio del famoso hidalgo don Quijote de la Mancha</text>
+      </navLabel>
+      <content src="OEBPS/Text/main2.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84796" playOrder="3">
+      <navLabel>
+        <text>Capítulo 2 - Que trata de la primera salida que de su tierra hizo el ingenioso don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main3.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84798" playOrder="4">
+      <navLabel>
+        <text>Capítulo 3 - Donde se cuenta la graciosa manera que tuvo don Quijote en armarse caballero</text>
+      </navLabel>
+      <content src="OEBPS/Text/main4.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84800" playOrder="5">
+      <navLabel>
+        <text>Capítulo 4 - De lo que le sucedió a nuestro caballero cuando salió de la venta</text>
+      </navLabel>
+      <content src="OEBPS/Text/main5.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84802" playOrder="6">
+      <navLabel>
+        <text>Capítulo 5 - Donde se prosigue la narración de la desgracia de nuestro caballero</text>
+      </navLabel>
+      <content src="OEBPS/Text/main6.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84804" playOrder="7">
+      <navLabel>
+        <text>Capítulo 6 - Del donoso y grande escrutinio que el cura y el barbero hicieron en la librería de nuestro ingenioso hidalgo</text>
+      </navLabel>
+      <content src="OEBPS/Text/main7.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84806" playOrder="8">
+      <navLabel>
+        <text>Capítulo 7 - De la segunda salida de nuestro buen caballero don Quijote de la Mancha</text>
+      </navLabel>
+      <content src="OEBPS/Text/main8.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84808" playOrder="9">
+      <navLabel>
+        <text>Capítulo 8 - Del buen suceso que el valeroso don Quijote tuvo en la espantable y jamás imaginada aventura de los molinos de viento, con otros sucesos dignos de felice recordación</text>
+      </navLabel>
+      <content src="OEBPS/Text/main9.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84810" playOrder="10">
+      <navLabel>
+        <text>Capítulo 9 - Donde se concluye y da fin a la estupenda batalla que el gallardo vizcaíno y el valiente manchego tuvieron</text>
+      </navLabel>
+      <content src="OEBPS/Text/main10.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84812" playOrder="11">
+      <navLabel>
+        <text>Capítulo 10 - De lo que más le avino a don Quijote con el vizcaíno, y del peligro en que se vio con una turba de yangüeses</text>
+      </navLabel>
+      <content src="OEBPS/Text/main11.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84814" playOrder="12">
+      <navLabel>
+        <text>Capítulo 11 - De lo que le sucedió a don Quijote con unos cabreros</text>
+      </navLabel>
+      <content src="OEBPS/Text/main12.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84816" playOrder="13">
+      <navLabel>
+        <text>Capítulo 12 - De lo que contó un cabrero a los que estaban con don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main13.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84818" playOrder="14">
+      <navLabel>
+        <text>Capítulo 13 - Donde se da fin al cuento de la pastora Marcela, con otros sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main14.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84820" playOrder="15">
+      <navLabel>
+        <text>Capítulo 14 - Donde se ponen los versos desesperados del difunto pastor, con otros no esperados sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main15.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84822" playOrder="16">
+      <navLabel>
+        <text>Capítulo 15 - Donde se cuenta la desgraciada aventura que se topó don Quijote en topar con unos desalmados yangüeses</text>
+      </navLabel>
+      <content src="OEBPS/Text/main16.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84824" playOrder="17">
+      <navLabel>
+        <text>Capítulo 16 - De lo que le sucedió al ingenioso hidalgo en la venta que él imaginaba ser castillo</text>
+      </navLabel>
+      <content src="OEBPS/Text/main17.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84826" playOrder="18">
+      <navLabel>
+        <text>Capítulo 17 - Donde se prosiguen los innumerables trabajos que el bravo don Quijote y su buen escudero Sancho Panza pasaron en la venta que, por su mal, pensó que era castillo</text>
+      </navLabel>
+      <content src="OEBPS/Text/main18.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84828" playOrder="19">
+      <navLabel>
+        <text>Capítulo 18 - Donde se cuentan las razones que pasó Sancho Panza con su señor Don Quijote, con otras aventuras dignas de ser contadas</text>
+      </navLabel>
+      <content src="OEBPS/Text/main19.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84830" playOrder="20">
+      <navLabel>
+        <text>Capítulo 19 - De las discretas razones que Sancho pasaba con su amo, y de la aventura que le sucedió con un cuerpo muerto, con otros acontecimientos famosos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main20.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84832" playOrder="21">
+      <navLabel>
+        <text>Capítulo 20 - De la jamás vista ni oída aventura que con más poco peligro fue acabada de famoso caballero en el mundo, como la que acabó el valeroso don Quijote de la Mancha</text>
+      </navLabel>
+      <content src="OEBPS/Text/main21.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84834" playOrder="22">
+      <navLabel>
+        <text>Capítulo 21 - Que trata de la alta aventura y rica ganancia del yelmo de Mambrino, con otras cosas sucedidas a nuestro invencible caballero</text>
+      </navLabel>
+      <content src="OEBPS/Text/main22.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84836" playOrder="23">
+      <navLabel>
+        <text>Capítulo 22 - De la libertad que dio don Quijote a muchos desdichados que, mal de su grado, los llevaban donde no quisieran ir</text>
+      </navLabel>
+      <content src="OEBPS/Text/main23.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84838" playOrder="24">
+      <navLabel>
+        <text>Capítulo 23 - De lo que le aconteció al famoso don Quijote en Sierra Morena, que fue una de las más raras aventuras que en esta verdadera historia se cuentan</text>
+      </navLabel>
+      <content src="OEBPS/Text/main24.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84840" playOrder="25">
+      <navLabel>
+        <text>Capítulo 24 - Donde se prosigue la aventura de la Sierra Morena</text>
+      </navLabel>
+      <content src="OEBPS/Text/main25.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84842" playOrder="26">
+      <navLabel>
+        <text>Capítulo 25 - Que trata de las estrañas cosas que en Sierra Morena sucedieron al valiente caballero de la Mancha, y de la imitación que hizo a la penitencia de Beltenebros</text>
+      </navLabel>
+      <content src="OEBPS/Text/main26.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84844" playOrder="27">
+      <navLabel>
+        <text>Capítulo 26 - Donde se prosiguen las finezas que de enamorado hizo don Quijote en Sierra Morena</text>
+      </navLabel>
+      <content src="OEBPS/Text/main27.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84846" playOrder="28">
+      <navLabel>
+        <text>Capítulo 27 - De cómo salieron con su intención el cura y el barbero, con otras cosas dignas de que se cuenten en esta grande historia</text>
+      </navLabel>
+      <content src="OEBPS/Text/main28.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84848" playOrder="29">
+      <navLabel>
+        <text>Capítulo 28 - Que trata de la nueva y agradable aventura que al cura y barbero sucedió en la mesma sierra</text>
+      </navLabel>
+      <content src="OEBPS/Text/main29.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84850" playOrder="30">
+      <navLabel>
+        <text>Capítulo 29 - Que trata de la discreción de la hermosa Dorotea, con otras cosas de mucho gusto y pasatiempo</text>
+      </navLabel>
+      <content src="OEBPS/Text/main30.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84852" playOrder="31">
+      <navLabel>
+        <text>Capítulo 30 - Que trata del gracioso artificio y orden que se tuvo en sacar a nuestro enamorado caballero de la asperísima penitencia en que se había puesto</text>
+      </navLabel>
+      <content src="OEBPS/Text/main31.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84854" playOrder="32">
+      <navLabel>
+        <text>Capítulo 31 - De los sabrosos razonamientos que pasaron entre don Quijote y Sancho Panza, su escudero, con otros sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main32.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84856" playOrder="33">
+      <navLabel>
+        <text>Capítulo 32 - Que trata de lo que sucedió en la venta a toda la cuadrilla de don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main33.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84858" playOrder="34">
+      <navLabel>
+        <text>Capítulo 33 - Donde se cuenta la novela del Curioso impertinente</text>
+      </navLabel>
+      <content src="OEBPS/Text/main34.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84860" playOrder="35">
+      <navLabel>
+        <text>Capítulo 34 - Donde se prosigue la novela del Curioso impertinente</text>
+      </navLabel>
+      <content src="OEBPS/Text/main35.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84862" playOrder="36">
+      <navLabel>
+        <text>Capítulo 35 - Donde se da fin a la novela del Curioso impertinente</text>
+      </navLabel>
+      <content src="OEBPS/Text/main36.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84864" playOrder="37">
+      <navLabel>
+        <text>Capítulo 36 - Que trata de la brava y descomunal batalla que don Quijote tuvo con unos cueros de vino tinto, con otros raros sucesos que en la venta le sucedieron</text>
+      </navLabel>
+      <content src="OEBPS/Text/main37.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84866" playOrder="38">
+      <navLabel>
+        <text>Capítulo 37 - Que prosigue la historia de la famosa infanta Micomicona, con otras graciosas aventuras</text>
+      </navLabel>
+      <content src="OEBPS/Text/main38.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84868" playOrder="39">
+      <navLabel>
+        <text>Capítulo 38 - Que trata del curioso discurso que hizo don Quijote de las armas y las letras</text>
+      </navLabel>
+      <content src="OEBPS/Text/main39.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84870" playOrder="40">
+      <navLabel>
+        <text>Capítulo 39 - Donde el cautivo cuenta su vida y sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main40.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84872" playOrder="41">
+      <navLabel>
+        <text>Capítulo 40 - Donde se prosigue la historia del cautivo</text>
+      </navLabel>
+      <content src="OEBPS/Text/main41.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84874" playOrder="42">
+      <navLabel>
+        <text>Capítulo 41 - Donde todavía prosigue el cautivo su suceso</text>
+      </navLabel>
+      <content src="OEBPS/Text/main42.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84876" playOrder="43">
+      <navLabel>
+        <text>Capítulo 42 - Que trata de lo que más sucedió en la venta y de otras muchas cosas dignas de saberse</text>
+      </navLabel>
+      <content src="OEBPS/Text/main43.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84878" playOrder="44">
+      <navLabel>
+        <text>Capítulo 43 - Donde se cuenta la agradable historia del mozo de mulas, con otros estraños acaecimientos en la venta sucedidos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main44.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84880" playOrder="45">
+      <navLabel>
+        <text>Capítulo 44 - Donde se prosiguen los inauditos sucesos de la venta</text>
+      </navLabel>
+      <content src="OEBPS/Text/main45.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84882" playOrder="46">
+      <navLabel>
+        <text>Capítulo 45 - Donde se acaba de averiguar la duda del yelmo de Mambrino y de la albarda, y otras aventuras sucedidas, con toda verdad</text>
+      </navLabel>
+      <content src="OEBPS/Text/main46.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84884" playOrder="47">
+      <navLabel>
+        <text>Capítulo 46 - De la notable aventura de los cuadrilleros, y la gran ferocidad de nuestro buen caballero don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main47.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84886" playOrder="48">
+      <navLabel>
+        <text>Capítulo 47 - Del estraño modo con que fue encantado don Quijote de la Mancha, con otros famosos sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main48.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84888" playOrder="49">
+      <navLabel>
+        <text>Capítulo 48 - Donde prosigue el canónigo la materia de los libros de caballerías, con otras cosas dignas de su ingenio</text>
+      </navLabel>
+      <content src="OEBPS/Text/main49.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84890" playOrder="50">
+      <navLabel>
+        <text>Capítulo 49 - Donde se trata del discreto coloquio que Sancho Panza tuvo con su señor don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main50.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84892" playOrder="51">
+      <navLabel>
+        <text>Capítulo 50 - De las discretas altercaciones que don Quijote y el canónigo tuvieron, con otros sucesos</text>
+      </navLabel>
+      <content src="OEBPS/Text/main51.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84894" playOrder="52">
+      <navLabel>
+        <text>Capítulo 51 - Que trata de lo que contó el cabrero a todos los que llevaban a don Quijote</text>
+      </navLabel>
+      <content src="OEBPS/Text/main52.xml"/>
+    </navPoint>
+    <navPoint class="chapter" id="chap84896" playOrder="53">
+      <navLabel>
+        <text>Capítulo 52 - De la pendencia que don Quijote tuvo con el cabrero, con la rara aventura de los deceplinantes, a quien dio felice fin a costa de su sudor</text>
+      </navLabel>
+      <content src="OEBPS/Text/main53.xml"/>
+    </navPoint>
+  </navMap>
+</ncx>
