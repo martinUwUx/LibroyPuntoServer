@@ -1,0 +1,23 @@
+{
+  "name": "epub-server",
+  "version": "1.0.0",
+  "description": "Servidor para arriendo digital de ePubs con validación de token.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "epub",
+    "reader",
+    "digital",
+    "library",
+    "node",
+    "express"
+  ],
+  "author": "TeamLyP",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
