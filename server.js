@@ -10,7 +10,8 @@ const PORT = process.env.PORT || 3000;
 // --- Configuración de CORS (Permite que tu app de Glide y el visor se comuniquen con el servidor) ---
 app.use((req, res, next) => {
     // IMPORTANTE: En producción, considera restringir '*' a dominios específicos para mayor seguridad.
-    // Ejemplo: res.setHeader('Access-Control-Allow-Origin', 'https://tu-dominio-de-glide.glideapp.io');
+    // Para una app de Glide, podrías poner el dominio de tu app, por ejemplo:
+    // 'https://tu-nombre.glide.page' o 'https://tu-nombre.glideapp.io'
     res.setHeader('Access-Control-Allow-Origin', '*'); 
     res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
     res.setHeader('Access-Control-Allow-Headers', 'Content-Type, Authorization');
@@ -144,4 +145,7 @@ app.use('/epubs_content/:bookId/*', (req, res) => {
 // --- Iniciar el Servidor ---
 app.listen(PORT, () => {
     console.log(`Servidor ePub escuchando en el puerto ${PORT}`);
-    console.log(`Puedes probar el visor aquí (
+    // ¡Línea corregida! Asegurada la comilla invertida y el paréntesis de cierre.
+    console.log(`Puedes probar el visor aquí (usa un ID de libro y token de prueba, no funcionará sin uno real):`);
+    console.log(`http://localhost:${PORT}/viewer?bookId=mi-libro-ejemplo&userToken=mi-libro-ejemplo_usuario1_1767225600000_aleatorio`);
+});
